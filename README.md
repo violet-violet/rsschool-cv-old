@@ -1,1 +1,1 @@
-# rsschool-cv
+https://violet-violet.github.io/rsschool-cv/cv
