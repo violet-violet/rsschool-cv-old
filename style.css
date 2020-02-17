@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;    
+}
+
+body {
+    background-color: #F5F8F9;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+header {
+    /*background-color: #B8944D;*/
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+h1 {
+    padding-top: 50px;
+    font-size: 30px;
+}
+
+h2 {
+    margin-top: 30px;
+}
+
+ul {
+    margin-top: 15px;
+    list-style-type: none;
+}
+
+p {
+    margin-top: 15px;
+}
+
+main {
+    margin-bottom: 50px;
+}
+
+.wrapper {
+    max-width: 1024px;
+    margin: 0 auto;
+}
